@@ -1,0 +1,21 @@
+Pong Game Plan
+
+Classes:
+
+Scoreboard
+    -display score on the top of the screen
+    -score displays on the players side
+
+
+player piece
+    - move the pong player piece with the arrow keys
+
+moving pong
+    -move the pong randomly against the screen
+
+detect collision
+    -detect when pong collides with player or the wall
+
+detect score
+    -detect when pong makes a score
+    -reset the pong when score is made
